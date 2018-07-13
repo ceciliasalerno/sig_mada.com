@@ -1,0 +1,31 @@
+var json_reductores_velocidad_21 = {
+"type": "FeatureCollection",
+"name": "reductores_velocidad_21",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1", "TIPO": "SEMAFORO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.135411695352701, -37.001229727170539 ] } },
+{ "type": "Feature", "properties": { "id": "2", "TIPO": "SEMAFORO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.136297721796396, -37.002579273824935 ] } },
+{ "type": "Feature", "properties": { "id": "3", "TIPO": "SEMAFORO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.134804393093596, -37.00664603156082 ] } },
+{ "type": "Feature", "properties": { "id": "4", "TIPO": "SEMAFORO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.137509091545226, -36.999408738590809 ] } },
+{ "type": "Feature", "properties": { "id": "5", "TIPO": "LOMA DE BURRO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.140027703713905, -37.000061016909356 ] } },
+{ "type": "Feature", "properties": { "id": "6", "TIPO": "REDUCTOR DE VELOCIDAD", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.136108296165858, -36.999196402780292 ] } },
+{ "type": "Feature", "properties": { "id": "7", "TIPO": "LOMA DE BURRO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.129996665816371, -37.003214820733618 ] } },
+{ "type": "Feature", "properties": { "id": "8", "TIPO": "REDUCTOR DE VELOCIDAD", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.131077274788517, -37.001408427370521 ] } },
+{ "type": "Feature", "properties": { "id": "9", "TIPO": "REDUCTOR DE VELOCIDAD", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.133679189102146, -37.002020632480317 ] } },
+{ "type": "Feature", "properties": { "id": "10", "TIPO": "REDUCTOR DE VELOCIDAD", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.134249992723547, -37.004266465126229 ] } },
+{ "type": "Feature", "properties": { "id": "11", "TIPO": "REDUCTOR DE VELOCIDAD", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.139001989770065, -36.995261711197983 ] } },
+{ "type": "Feature", "properties": { "id": "12", "TIPO": "LOMA DE BURRO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.130790211898713, -37.009017344877755 ] } },
+{ "type": "Feature", "properties": { "id": "13", "TIPO": "LOMA DE BURRO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.134478022410065, -36.999951382954663 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "REDUCTOR DE VELOCIDAD", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.131733895907388, -37.014386437926248 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "REDUCTOR DE VELOCIDAD", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.131121623440251, -37.008896752723011 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "LOMA DE BURRO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.132406643621394, -37.005039407674154 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "LOMA DE BURRO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.132878623302695, -37.004106553299266 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "LOMA DE BURRO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.13016915994865, -37.005841842010398 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "REDUCTOR DE VELOCIDAD", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.137619403942132, -37.00279186485642 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "LOMA DE BURRO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.136392559831265, -36.994648841937611 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "LOMA DE BURRO", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.141174227828351, -36.997025781006734 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "REDUCTOR", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.133022820744621, -37.004077041386253 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "REDUCTOR", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.135515804602178, -37.00472080099297 ] } },
+{ "type": "Feature", "properties": { "id": null, "TIPO": "REDUCTOR", "ESTADO": null }, "geometry": { "type": "Point", "coordinates": [ -57.136835254806556, -37.004848603138441 ] } }
+]
+}
